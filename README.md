@@ -1,5 +1,11 @@
-# 👋 Hi! Welcome to my Github profile. 
-# I'm Raissa Peneluc! 💗
+
+# Raíssa Peneluc 🌺💗
+
+## 👋 Hi! Welcome to my Github profile. 
+<about>
+    <description>I'm a Computer Science student in the 6th semester, 20 years old. My journey in the tech world began with a deep interest in solving problems and creating innovative solutions. Every day is a new opportunity to learn and grow as a developer.</description>
+</about>
+
 
 ## Tools and Technologies:
 
