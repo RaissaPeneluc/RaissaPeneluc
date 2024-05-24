@@ -1,4 +1,5 @@
-## 👋 Hello! Welcome to my Github profile. 💗
+## 👋 Hello! Welcome to my Github profile. 
+# I'm Raissa Peneluc! 💗
 
 ## Tools and Technologies:
 
@@ -14,7 +15,6 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 
-<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">
 
 
 ## Project Repositories:
