@@ -6,14 +6,12 @@
     <description>I'm a Computer Science student in the 6th semester, 20 years old. My journey in the tech world began with a deep interest in solving problems and creating innovative solutions. Every day is a new opportunity to learn and grow as a developer.</description>
 </about>
 
-<details>
-    <info>
+
       <item>🎓 <label>Course</label>: Computer Science</item>
       <item>📚 <label>Semester</label>: 6th</item>
       <item>💼 <label>Professional Interests</label>: Software development, continuous learning, participating in courses and bootcamps</item>
       <item>🌱 <label>Currently Learning</label>: New technologies and enhancing my programming skills</item>
-    </info>
-  </details>
+
 
 ## Tools and Technologies:
 
@@ -40,7 +38,7 @@
 </div>
 
 
-## ☎️ Contact:
+## ☎️ Connect With Me On Social Media:
 
 <div>
 <a href = "mailto:raissapeneluc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
