@@ -1,10 +1,13 @@
 ## 👋 Hello! Welcome to my Github profile. 💗
 
-## Ferramentas e Tecnologias:
+## Tools and Technologies:
 
-## Estou Aprendendo:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## Repositórios de Projetos:
+
+## Learning About:
+
+## Project Repositories:
 
 <div>
 <a href="https://github.com/RaissaPeneluc">
@@ -13,14 +16,13 @@
 </div>
 
 
-## ☎️ Contatos:
+## ☎️ Contact:
 
 <div>
 <a href = "mailto:raissapeneluc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/raissapeneluc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/RaissaPeneluc/RaissaPeneluc/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
