@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile. 
+# 👋 Hi! Welcome to my Github profile. 
 # I'm Raissa Peneluc! 💗
 
 ## Tools and Technologies:
